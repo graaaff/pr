@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ONE BLOCK</title>
+</head>
+<body>
+	<style type="text/css">
+		.one{
+			width: 70%;
+			background: yellow;
+			margin-top: 10%;
+			margin-left: 15%;
+		}
+	</style>
+	<div class="one">
+	Ut aliquam, ipsum et finibus lacinia, libero purus convallis ipsum, a aliquet velit felis in nibh. Fusce eget lobortis elit. Curabitur laoreet ultricies rutrum. In eu velit tempus, pulvinar ex sed, eleifend diam. Etiam velit quam, vulputate id condimentum placerat, varius at mauris. Praesent vestibulum ligula magna, ut lacinia metus interdum in. Donec id massa lectus. Vestibulum posuere, metus sed rutrum facilisis, lorem nulla tristique diam, in suscipit urna nisi rutrum turpis. Integer sapien nisi, viverra ut velit commodo, tincidunt faucibus tortor.
+	</div>
+</body>
+</html>

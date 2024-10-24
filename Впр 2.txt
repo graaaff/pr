@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>INNER</title>
+	<meta charset="utf-8">
+</head>
+<body>
+    <style type="text/css">
+      body {
+       margin: 0;
+      }
+      .main{
+        margin-top: 110px;
+        width: 80%;
+        height: 600px;
+        margin-left: 10%;
+        background: lightgreen;
+}
+.inner {
+    width: 60%;
+    height: 400px;
+    background: yellow;
+    margin-left: 20%;
+}
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: violet;
+    position: fixed;
+    top: 0;
+}
+</style>
+<div class="header"></div>
+<div class="main">Ut aliquam, ipsum et finibus lacinia, libero purus convallis ipsum, a aliquet velit felis in nibh. Fusce eget lobortis elit. Curabitur laoreet ultricies rutrum. In eu velit tempus, pulvinar ex sed, eleifend diam. Etiam velit quam, vulputate id condimentum placerat, varius at mauris. Praesent vestibulum ligula magna, ut lacinia metus interdum in. Donec id massa lectus. Vestibulum posuere, metus sed rutrum facilisis, lorem nulla tristique diam, in suscipit urna nisi rutrum turpis. Integer sapien nisi, viverra ut velit commodo, tincidunt faucibus tortor.</div>
+    <div class="inner"></div>
+   </div>
+Ut aliquam, ipsum et finibus lacinia, libero purus convallis ipsum, a aliquet velit felis in nibh. Fusce eget lobortis elit. Curabitur laoreet ultricies rutrum. In eu velit tempus, pulvinar ex sed, eleifend diam. Etiam velit quam, vulputate id condimentum placerat, varius at mauris. Praesent vestibulum ligula magna, ut lacinia metus interdum in. Donec id massa lectus. Vestibulum posuere, metus sed rutrum facilisis, lorem nulla tristique diam, in suscipit urna nisi rutrum turpis. Integer sapien nisi, viverra ut velit commodo, tincidunt faucibus tortor.
+</body>
+</html>
